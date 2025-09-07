@@ -1,0 +1,25 @@
+{
+    "0": {
+        "name": "Healthy",
+        "recommendations": [
+            "Continue regular monitoring",
+            "Maintain current care practices"
+        ]
+    },
+    "1": {
+        "name": "Leaf Rust",
+        "recommendations": [
+            "Apply approved fungicide",
+            "Improve air circulation",
+            "Remove infected leaves"
+        ]
+    },
+    "2": {
+        "name": "Leaf Blight",
+        "recommendations": [
+            "Apply copper-based fungicide",
+            "Reduce leaf wetness",
+            "Practice crop rotation"
+        ]
+    }
+}
